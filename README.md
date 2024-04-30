@@ -24,7 +24,7 @@ Indexed in : IEEE Access ( Volume: 10)
 
 
 # Problem Statement: 
-    With the increase in usage of credit cards, the capacity of credit card misuse has also enhanced.
+With the increase in usage of credit cards, the capacity of credit card misuse has also enhanced.
 Credit card frauds cause significant financial losses for both credit card holders and financial 
 companies. In this research study, the main aim is to detect such frauds, including the accessibility of public 
 data, high-class imbalance data, the changes in fraud nature, and high rates of false alarm. 
